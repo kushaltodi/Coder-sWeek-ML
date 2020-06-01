@@ -1,11 +1,30 @@
-Hey!! You might be thinking about this thing called Machine Learning. It’s basically a technique where in you can help a machine learn new things. For example, the Google Home to which you say to play your music or set an alarm for you. You remember that you had once told it about your birth date and marriage date, and you ask it that when your birthday is, so it recognizes you and tells your birth date. This is what machine learning is, like how this small machine listened to your voice, memorized it , listened to your information , again memorized it and when you asked for it , it recognized you by your voice and also told you your birth date.
+Hey!! You might be thinking about this thing called Machine Learning. It’s basically a technique where in you can help a 
+machine learn new things. For example, the Google Home to which you say to play your music or set an alarm for you. You 
+remember that you had once told it about your birth date and marriage date, and you ask it that when your birthday is, 
+so it recognizes you and tells your birth date. This is what machine learning is, like how this small machine listened 
+to your voice, memorized it , listened to your information , again memorized it and when you asked for it , it recognized 
+you by your voice and also told you your birth date.
 
-So, you could say that, Machine learning is one of the most exciting technologies that one would have ever come across. As it is evident from the name, it gives the computer that which makes it more similar to humans: The ability to learn. Machine learning is actively being used today, perhaps in many more places than one would expect. We probably use a learning algorithm dozens of time without even knowing it.
+So, you could say that, Machine learning is one of the most exciting technologies that one would have ever come across. 
+As it is evident from the name, it gives the computer that which makes it more similar to humans: The ability to learn. 
+Machine learning is actively being used today, perhaps in many more places than one would expect. We probably use a 
+learning algorithm dozens of time without even knowing it.
 
-Isn’t it amazing that machines have so powerful and smart that they are learning from us and about us and then working for us and show us content. 
+Isn’t it amazing that machines have so powerful and smart that they are learning from us and about us and then working for
+ us and show us content. 
 
-There are many things that you yourself are using are built using Machine Learning. One was the Google Home, then you use Facebook, which also is a very good example of Machine Learning where in you start seeing different posts and make new friends every day and eventually you see that the posts are appearing relevant to your interests and the ones you have viewed in the past. This is, again, called as Machine learning. Facebook observes your movement that is what links you open, what posts search, like, comment, basically are interested in ,also, observes the people you search, make friends with and learns from these activities of yours and then show and suggests you friends and posts keeping in mind the things it has learned from you.
+There are many things that you yourself are using are built using Machine Learning. One was the Google Home, then you use 
+Facebook, which also is a very good example of Machine Learning where in you start seeing different posts and make new 
+friends every day and eventually you see that the posts are appearing relevant to your interests and the ones you have 
+viewed in the past. This is, again, called as Machine learning. Facebook observes your movement that is what links you 
+open, what posts search, like, comment, basically are interested in ,also, observes the people you search, make friends 
+with and learns from these activities of yours and then show and suggests you friends and posts keeping in mind the things 
+it has learned from you.
 
-We can talk of another example, like Flipkart, where keep searching for various things like clothes, jewellery etc. Here after some time, just like Facebook, it also shows you products which you seem be interested in or have bouoght before. It also learns form your previous purchases and searches and then keeping them in mind shows you different products which you would like to buy.
+We can talk of another example, like Flipkart, where keep searching for various things like clothes, jewellery etc. Here 
+after some time, just like Facebook, it also shows you products which you seem be interested in or have bouoght before. 
+It also learns form your previous purchases and searches and then keeping them in mind shows you different products which
+ you would like to buy.
 
-Hence, we could say that we are surrounded by millions of objects that use Machine Learning, to which we are getting used to and will be the future.
+Hence, we could say that we are surrounded by millions of objects that use Machine Learning, to which we are getting used 
+to and will be the future.
