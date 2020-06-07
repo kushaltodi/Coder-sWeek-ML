@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>Task 1 API</title>
+
+</head>
+
+<body>
+ <div >
+	<h1>Prediction of Purchase</h1>
+
+     <!-- Main Input For Receiving Query to our ML -->
+    <form action="{{ url_for('predict')}}"method="post">
+        <input type="text" name="age" placeholder="Age" required="required" />
+		<input type="text" name="salary" placeholder="Estimated" required="required" />
+
+        <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+    </form>
+
+    <p>
+      If purchased, output will be '1'
+    </p>
+    <p>
+      If not purchased, the output will be '0'
+    </p>
+
+   <br>
+   <br>
+   {{ prediction_text }}
+
+ </div>
+
+
+</body>
+</html>
